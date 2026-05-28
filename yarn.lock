@@ -2462,9 +2462,7 @@ expo-status-bar@~1.0.3:
   integrity sha512-/Orgla1nkIrfswNHbuAOTbPVq0g3+GrhoQVk7MRafY2dwrFLgXhaPExS+eN2hpmzqPv2LG5cqAZDCQUAjmZYBQ==
 
 expo@~40.0.0:
-  version "40.0.0"
-  resolved "https://registry.yarnpkg.com/expo/-/expo-40.0.0.tgz#6caf03587532cd18b482991332a8b75eeca2fcb7"
-  integrity sha512-LT6Ae/Ms0qtRyJlJsj/FMB5AQpj6nED39SY9KqY4zK/uFG+R7DJ/4VUzkPued1mWtRUrtaqR+t88pA3p0vAWcg==
+  version "40.0.1"
   dependencies:
     "@babel/runtime" "^7.1.2"
     "@expo/vector-icons" "^12.0.0"
